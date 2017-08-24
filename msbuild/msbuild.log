@@ -1,0 +1,16 @@
+Build started 2017-08-23 15:26:32.
+Project "c:\Users\fmud\data\pers\buildtools\msbuild\Helloworld.csproj" on node 1 (default targets).
+Building with tools version "15.0".
+Target "Build" in project "c:\Users\fmud\data\pers\buildtools\msbuild\Helloworld.csproj" (entry point):
+Skipping target "Build" because all output files are up-to-date with respect to the input files.
+Input files: helloworld.cs
+Output files: Bin\MSBuildSample.exe
+Done building target "Build" in project "Helloworld.csproj".
+Done Building Project "c:\Users\fmud\data\pers\buildtools\msbuild\Helloworld.csproj" (default targets).
+
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.04

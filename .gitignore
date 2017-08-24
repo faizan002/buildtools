@@ -4,12 +4,35 @@
 
 # Prerequisites
 *.d
+bin/
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
 
 # Precompiled Headers
 *.gch
